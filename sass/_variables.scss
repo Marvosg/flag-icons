@@ -1,4 +1,6 @@
 $flag-icons-path: "../flags" !default;
 $flag-icons-rect-path: "/4x3" !default;
 $flag-icons-square-path: "/1x1" !default;
-$flag-icons-use-square: true !default;
+/* $flag-icons-use-square: true !default; */
+$flag-icons-use-square: false !default;
+$flag-icons-included-countries: al, be, bg, ca, hr, cz, dk, ee, fr, de, gr, hu, is, it, lv, lt, lu, me, mk, nl, no, pl, pt, ro, sk, si, es, tr, gb, us;

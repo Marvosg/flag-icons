@@ -2,6 +2,7 @@
   @each $country in $flag-icons-included-countries {
     @include flag-icon($country);
   }
+  /* @include flag-icon(xx); */
 } @else {
   // Keep xx first as it is often used as fallback
   @include flag-icon(xx);

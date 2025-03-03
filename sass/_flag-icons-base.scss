@@ -8,13 +8,13 @@
   @extend .fib;
   position: relative;
   display: inline-block;
-  width: 1.333333 * 1em;
-  line-height: 1em;
+  width: 1.333333 * 1rem;
+  line-height: 1rem;
   &:before {
     content: "\00a0";
   }
   &.fis {
-    width: 1em;
+    width: 1rem;
   }
 }
 
