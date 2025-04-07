@@ -50,6 +50,10 @@
   background-image: url(../flags/4x3/ee.svg);
 }
 
+.fi-fi {
+  background-image: url(../flags/4x3/fi.svg);
+}
+
 .fi-fr {
   background-image: url(../flags/4x3/fr.svg);
 }
@@ -114,12 +118,16 @@
   background-image: url(../flags/4x3/ro.svg);
 }
 
-.fi-sk {
-  background-image: url(../flags/4x3/sk.svg);
+.fi-se {
+  background-image: url(../flags/4x3/se.svg);
 }
 
 .fi-si {
   background-image: url(../flags/4x3/si.svg);
+}
+
+.fi-sk {
+  background-image: url(../flags/4x3/sk.svg);
 }
 
 .fi-es {
